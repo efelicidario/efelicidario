@@ -7,9 +7,6 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-### ⚡️ Hobbies
-
-### 🔗 Links
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/efelicidario/)  &nbsp;
 
 <!--
