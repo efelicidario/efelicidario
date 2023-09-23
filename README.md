@@ -5,4 +5,4 @@ Seeking new opportunities to create impact and make a difference.
 Proficient: `C++` | `Python` | `HTML` | `CSS` | Linux Commands  
 Experienced: `JS` | `SQL` | `Git` | `VS`, `VS Code`  
 
-🥋 | 🏂 | 🏋🏽 | 🏌🏽 | 🏄🏽‍♂️ | 🔫  
+### 🥋 | 🏂 | 🏋🏽 | 🏌🏽 | 🏄🏽‍♂️ | 🔫  
